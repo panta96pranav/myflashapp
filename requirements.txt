@@ -55,7 +55,7 @@ simplejson==3.17.6
 six==1.16.0
 soupsieve==2.3.1
 systemd-python==234
-#threadpoolctl==3.2.0
+threadpoolctl==3.2.0
 tomli==2.0.1
 typed-ast==1.4.3
 types-aiofiles==0.1
