@@ -15,7 +15,7 @@ distlib==0.3.7
 #distro-info==1.1+ubuntu0.1
 filelock==3.12.4
 Flask==2.3.2
-gyp==0.1
+#gyp==0.1
 html5lib==1.1
 httplib2==0.20.2
 idna==3.4
